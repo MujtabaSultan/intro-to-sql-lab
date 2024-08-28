@@ -70,5 +70,7 @@ SELECT * FROM cities WHERE id= 211;
 
 
 SELECT * FROM cities WHERE population >91000 ORDER BY population
+-- i used the query on top , but this one better
+SELECT * FROM cities WHERE population =91084 
 
 --its santa Monica in usa 
